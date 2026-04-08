@@ -8,7 +8,7 @@ The player controls a submarine, collects coins, and avoids obstacles like seawe
 
 The goal is to reach 100 points as fast as possible while managing lives and avoiding collisions. As the score increases, the game becomes more difficult.
 
-## 📸 Gameplay
+## 📸 Screenshot
 
 ![Gameplay](graphics/sub-rush-gameplay.png)
 *Example gameplay showing the submarine, coins, and obstacles.*
