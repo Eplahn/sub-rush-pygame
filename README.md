@@ -19,8 +19,15 @@ The goal is to reach 100 points as fast as possible while managing lives and avo
 
 ## 🚀 How to run
 
-Make sure Python is installed, then install Pygame:
+1. Download or clone the repository
 
-```bash
-pip install pygame
-python sub_rush.py
+2. Install Pygame:
+   ```bash
+   pip install pygame
+   ```
+   
+3. Run the game:
+   ```bash
+   python sub_rush.py
+   ```
+**Note:** Run the script from the project root folder so asset paths work correctly.
